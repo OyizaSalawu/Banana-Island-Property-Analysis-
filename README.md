@@ -1,18 +1,7 @@
 # Banana-Island-Property-Analysis-
 This project presents an exploratory data analysis of residential properties in Banana Island, Lagos, conducted using Jupyter Lab. The dataset includes three properties, with analysis focused on occupancy trends, revenue, costs, and overall profitability.  The study identifies the best and worst performing months for each property.
-Yes, adding code is highly advisable for a GitHub project, especially for a data analysis project like your Banana Island analysis. 
-
-While the summary I wrote explains the *what* and the *why*, adding code snippets explains the **how**. It proves your technical skill to anyone viewing your profile (like a recruiter) and makes your work reproducible for others.
-
-Here is a refined version of the README that includes "Usage" and "Key Implementation" sections with code.
-
-
-
-Banana Island Property Analysis (BIA)
 
 This project provides a comprehensive financial and operational analysis of three distinct properties (Property A, B, and C) in Banana Island. Using Python, I modeled financial scenarios and identified operational trends to support data-driven investment decisions.
-
-📊 Project Overview
 The analysis evaluates properties based on revenue performance, occupancy trends, and cost correlations over a 36-month period.
 
  Key Features:
