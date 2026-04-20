@@ -56,6 +56,10 @@ Property A| 2,552,275.2 | 5,022,354.8 | 7,836,992.4 |
 Property B| 3,504,875.9 | 5,305,782.1 | 7,305,016.7 |
 Property C| 4,921,432.6 | 8,963,966.4 | 13,304,468.0 |
 
+ 
+Higher occupancy levels lead to lower cost per use, showing that property profitability improves with increased utilization due to the distribution of fixed costs.
+Property C outperforms others in revenue despite lower occupancy levels, suggesting that pricing and property value play a more critical role than occupancy alone. However, its high maintenance costs reduce overall profitability, emphasizing the need to balance premium pricing with cost efficiency.
+
 Property C is the best performing property out of all three 
 
 
